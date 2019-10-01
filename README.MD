@@ -7,7 +7,7 @@ git clone "https://github.com/ahwinemman/natours"
 ### Prerequisites
 You would need:
 * Node ^8.18.1
-Every other dependency would be installed as you run
+* Every other dependency would be installed as you run
 ```shell script
 npm install
 ```
