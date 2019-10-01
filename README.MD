@@ -8,12 +8,14 @@ git clone "https://github.com/ahwinemman/natours"
 You would need:
 * Node ^8.18.1
 Every other dependency would be installed as you run
-``` npm install
+```shell script
+npm install
 ```
 
 ## Serving the file
 * Make sure to cd into the root folder containing the project
 * You can serve the file with this command: 
-``` npm start
+```shell script
+npm start
 ```
 Visit http://localhost:8080
