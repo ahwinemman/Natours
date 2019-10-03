@@ -18,6 +18,6 @@ npm install
 ```shell script
 npm start
 ```
-On your local, check: http://localhost:8080 /n
+On your local, check: http://localhost:8080  
 On the web, check: https://ahwinemman.github.io/natours
 ### Finito!!
